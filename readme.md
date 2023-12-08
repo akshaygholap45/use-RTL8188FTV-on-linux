@@ -40,3 +40,6 @@ additionally you can Refer to the GitHub repository for more information: https:
     2. Turn ON Wi-Fi if it's off.
     3. Select the network and enter the password.
 That's it! You should now be able to use the Realtek RTL8188FTV WiFi adapter on your Linux PC.
+
+---
+Rapberry pi wiki link: `https://forums.raspberrypi.com/viewtopic.php?t=334503`
